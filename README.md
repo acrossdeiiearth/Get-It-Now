@@ -88,8 +88,11 @@ Screenshot:
 
 ## 🎥 Demo Video  
 If you have a demo video, place the link here:
+  <summary>▶️ Click to View Demo</summary>
+https://github.com/user-attachments/assets/a72f74ba-7c60-430d-9bb1-d80b7a6443d5
+</details>
 
-[Watch the Demo Here](YOUR_VIDEO_LINK)
+
 
 ---
 
